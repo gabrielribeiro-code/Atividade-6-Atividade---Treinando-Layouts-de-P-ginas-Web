@@ -1,13 +1,26 @@
 body{
     background-color:rgb(129, 129, 225);
+    
 }
 
 .blocos{
-    padding: 50;
-    margin: 20;
+    padding: 90;
+    margin: 45;
     background-color: rgb(255, 255, 119);
+    
 }
 
 .flex{
     display:flex;
+    justify-content: center;
 }
+
+.red{
+    background-color: red;
+    
+}
+.yellow{
+    background-color:rgb(255, 255, 119); 
+    padding-right: 360px;
+}
+
