@@ -1,36 +1,53 @@
 body{
     background-color:rgb(129, 129, 225);
-    
+    margin: 0;
 }
 
 .blocos{
     padding: 90px;
     margin: 45px;
     background-color: rgb(255, 255, 119);
-    
+    flex-shrink: 0;
 }
 
-
+.coluna{
+    display: flex;
+    flex-direction: column;
+   
+    
+}
 .green{
     background-color: rgb(30, 150, 19);
     height: 522px;
 }
 
-
+.blue{
+    background-color: aqua;
+    height: 252px;
+    width: 275px;
+    
+}
 .flex{
     display:flex;
     justify-content: center;
+    align-items: flex-start;
+    
 }
 
 .red{
-    padding: 90px;
-    margin: 45px;
     background-color: red;
-    height: 295px;
+    height: 254px;
     
 }
 .yellow{
     background-color:rgb(255, 255, 119); 
-    padding-right: 360px;
+    padding-right:360px;
+}
+
+.yellow2{
+    background-color: black;
+    height: 100px;
+    width: 250px;
+    
 }
 
