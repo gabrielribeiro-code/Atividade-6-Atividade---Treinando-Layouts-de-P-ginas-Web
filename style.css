@@ -4,22 +4,29 @@ body{
 }
 
 .blocos{
-    padding: 90;
-    margin: 45;
+    padding: 90px;
+    margin: 45px;
     background-color: rgb(255, 255, 119);
     
 }
 
+
+.green{
+    background-color: rgb(255, 255, 119);
+    height: 522px;
+}
+
+
 .flex{
     display:flex;
-    justify-content: center;
+    
 }
 
 .red{
-    padding: 90;
-    margin: 45;
-    background-color: red;
-    height: 150;
+    padding: 90px;
+    margin: 45px;
+    background-color: rgb(255, 255, 119);
+    height: 250px;
     
 }
 .yellow{
