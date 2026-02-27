@@ -16,7 +16,10 @@ body{
 }
 
 .red{
+    padding: 90;
+    margin: 45;
     background-color: red;
+    height: 150;
     
 }
 .yellow{
