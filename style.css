@@ -41,9 +41,14 @@ body{
 
 .red{
     background-color: red;
-    height: 254px;
-    width: 8px;
-    
+    height: 271px;
+    width: 8px;  
+}
+.red-2{
+    background-color: red;
+    height: 310px;
+    width: 8px;  
+
 }
 .yellow{
     background-color:rgb(255, 255, 119); 
@@ -52,7 +57,7 @@ body{
 
 .yellow2{
     background-color: black;
-    height: 100px;
+    height: 40px;
     width: 250px;
     
 }
