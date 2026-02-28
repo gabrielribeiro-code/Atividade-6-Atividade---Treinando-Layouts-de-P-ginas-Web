@@ -33,10 +33,16 @@ body{
     align-items: flex-start;
     
 }
+.flex-2{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
 
 .red{
     background-color: red;
     height: 254px;
+    width: 8px;
     
 }
 .yellow{
