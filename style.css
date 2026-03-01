@@ -47,9 +47,8 @@ body{
 
 .red-3{
      background-color: red;
-    height: 400px;
-    width: 200px; 
-    align-self: flex-start;
+   height: 252px;
+    width: 8px; 
      
     margin-top: 45px;
 }
