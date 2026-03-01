@@ -3,11 +3,13 @@ body{
     margin: 0;
 }
 
+
+
 .blocos{
     padding: 90px;
     margin: 45px;
     background-color: rgb(255, 255, 119);
-    flex-shrink: 0;
+    
 }
 
 .coluna{
@@ -19,6 +21,10 @@ body{
 .green{
     background-color: rgb(30, 150, 19);
     height: 522px;
+}
+.green-2{
+    background-color: rgb(30, 150, 19);
+    height: 542px;
 }
 
 .blue{
@@ -39,6 +45,14 @@ body{
     align-items: flex-end;
 }
 
+.red-3{
+     background-color: red;
+    height: 400px;
+    width: 200px; 
+    align-self: flex-start;
+     
+    margin-top: 45px;
+}
 .red{
     background-color: red;
     height: 271px;
@@ -50,11 +64,17 @@ body{
     width: 8px;  
 
 }
+
+
 .yellow{
     background-color:rgb(255, 255, 119); 
     padding-right:360px;
 }
 
+.yellow3{
+    background-color:rgb(255, 255, 119);
+    padding-right: 180px;
+}
 .yellow2{
     background-color: black;
     height: 40px;
